@@ -2,6 +2,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdulMoizWali)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- +Private Repos -->
+<p><img align="left" src="https://github-readme-stats-abdulmoizs-projects.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20&hide=ShaderLab,CMake,TSQL,HLSL,GAP,Swift,GLSL,Objective-C,Objective%20C++,Inno%20Setup" alt="AbdulMoizWali" /></p>
+
+<p><img align="left" src="https://github-readme-stats-abdulmoizs-projects.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10&hide=ShaderLab,CMake,TSQL,HLSL,GAP,Swift,GLSL,Objective-C,Objective%20C++,Inno%20Setup" alt="AbdulMoizWali" /></p>
+
+<p><img align="left" src="https://github-readme-stats-abdulmoizs-projects.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=4" alt="AbdulMoizWali" /></p>
+
+<!--Pnly Public Repos-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=20" alt="AbdulMoizWali" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulMoizWali&show_icons=true&locale=en&layout=compact" alt="AbdulMoizWali" /></p>
 
