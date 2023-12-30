@@ -26,6 +26,7 @@
   src="https://stackoverflow-card.vercel.app/?userID=22551152&theme=dracula"
 />
 
+[![](https://visitcount.itsvg.in/api?id=AbdulMoizWali&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **AbdulMoiz-hub/AbdulMoiz-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
